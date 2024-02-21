@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/vitalijk078/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/vitalijk078/frontend-project-44/actions)",
+  "description": "[![Actions Status](https://github.com/Smooth228105/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Smooth228105/frontend-project-44/actions)",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,5 +11,8 @@
   "license": "ISC",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
