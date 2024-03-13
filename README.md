@@ -6,3 +6,5 @@
 [![asciicast](https://asciinema.org/a/hSGvonMIodp4MP83zqVq7HT6Z.svg)](https://asciinema.org/a/hSGvonMIodp4MP83zqVq7HT6Z)
 ### Game2
 [![asciicast](https://asciinema.org/a/QBDJF2ViqjvO4IVqiORgoqKVF.svg)](https://asciinema.org/a/QBDJF2ViqjvO4IVqiORgoqKVF)
+### Game3
+[![asciicast](https://asciinema.org/a/tmPiU9Gttck0SyyX3rz9uLCiY.svg)](https://asciinema.org/a/tmPiU9Gttck0SyyX3rz9uLCiY)
