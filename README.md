@@ -8,3 +8,5 @@
 [![asciicast](https://asciinema.org/a/QBDJF2ViqjvO4IVqiORgoqKVF.svg)](https://asciinema.org/a/QBDJF2ViqjvO4IVqiORgoqKVF)
 ### Game3
 [![asciicast](https://asciinema.org/a/tmPiU9Gttck0SyyX3rz9uLCiY.svg)](https://asciinema.org/a/tmPiU9Gttck0SyyX3rz9uLCiY)
+### Game4
+[![asciicast](https://asciinema.org/a/UTlsYxYGj41BQwPp5IzcqVNy2.svg)](https://asciinema.org/a/UTlsYxYGj41BQwPp5IzcqVNy2)
