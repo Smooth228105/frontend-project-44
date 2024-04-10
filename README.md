@@ -11,4 +11,4 @@
 ### Game4
 [![asciicast](https://asciinema.org/a/UTlsYxYGj41BQwPp5IzcqVNy2.svg)](https://asciinema.org/a/UTlsYxYGj41BQwPp5IzcqVNy2)
 ### Game5
-[![asciicast](https://asciinema.org/a/U1idM5kAjU23v4mF9JcK6tz7J.svg)](https://asciinema.org/a/U1idM5kAjU23v4mF9JcK6tz7J)
+[![asciicast](https://asciinema.org/a/VIGFlnDW3k5djvOaGfGX6yF9K.svg)](https://asciinema.org/a/VIGFlnDW3k5djvOaGfGX6yF9K)
