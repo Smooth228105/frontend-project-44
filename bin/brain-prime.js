@@ -2,7 +2,7 @@
 
 import bodygume from '../src/bodygame.js';
 
-const description = '"yes" if given number is prime. Otherwise answer "no".';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const task = () => {
   const numbers = Math.floor(Math.random() * 100);
