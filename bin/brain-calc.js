@@ -5,5 +5,5 @@ import bodygume from '../src/bodygame.js';
 
 import task from '../src/game/calc.js';
 
-const description = 'Welcome to the Brain Games!';
+const description = 'What is the result of the expression?';
 bodygume(description, task);
