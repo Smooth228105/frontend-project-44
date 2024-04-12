@@ -6,14 +6,7 @@
 
 import bodygume from '../src/bodygame.js';
 
-/// const nameUser = greeting();
-const task = () => {
-  const numbers = Math.floor(Math.random() * 100);
-  if (numbers % 2 === 0) {
-    return [numbers, 'yes'];
-  }
-  return [numbers, 'no'];
-};
+import task from '../src/game/even.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 bodygume(description, task);
