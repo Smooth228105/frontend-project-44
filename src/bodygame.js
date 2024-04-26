@@ -6,7 +6,7 @@ function bodygume(description, task) {
   console.log(description);
   for (let i = 0; i < 3; i += 1) {
     const [question, answerCorrect] = task();
-    const questionP = `'Question: ${question}`;
+    const questionP = `Question: ${question}`;
     console.log(questionP);
     const answer = readlineSync.question('Your answer: ');
     if (answer === answerCorrect) {
