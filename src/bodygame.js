@@ -12,7 +12,7 @@ function bodygume(description, task) {
     if (answer === answerCorrect) {
       console.log('Correct!');
     } else {
-      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${answerCorrect}'. Let's try again, ${name}!`);
+      console.log(`'${answer}' is wrong answer ;(. Correct answer was '${answerCorrect}'.\nLet's try again, ${name}!`);
       return;
     }
   }
